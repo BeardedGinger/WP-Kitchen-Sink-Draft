@@ -3,7 +3,7 @@
  * Plugin Name:       WP Kitchen Sink Draft
  * Plugin URI:        http://github.com/BeardedGinger/Genesis-Shortcodes
  * Description:       Adds a draft page to your site with all options available within the WYSIWYG
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Josh Mallard
  * Author URI:        http://joshmallard.com
  * Text Domain:       gb-kitchen-sink
