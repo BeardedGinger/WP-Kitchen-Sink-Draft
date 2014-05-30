@@ -15,17 +15,18 @@ if ( ! defined( 'WPINC' ) ) {
 	die;
 }
 
-add_action( 'plugins_loaded', 'gb_kitchen_sink_draft' );
+register_activation_hook( __FILE__, 'gb_kitchen_sink_draft' );
 
 function gb_kitchen_sink_draft() {
-
 	$post = array(
-		'post_title' => __( 'Kitchen Sink', 'gb-kitchen-sink' ),
+		'post_title' => 'Kitchen Sink',
+		'post_name' => 'kitchen-sink',
 		'post_content' => gb_kitchen_sink_content(),
 		'post_type' => 'page'
-	)
+	);
 
 	wp_insert_post( $post );
+
 }
 
 /**
