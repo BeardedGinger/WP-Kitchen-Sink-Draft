@@ -113,7 +113,7 @@ function gb_kitchen_sink_content() {
 
 	Check out the site where all this cool <a title="DeLorean Ipsum" href="http://www.deloreanipsum.com/" target="_blank">DeLorean Ipsum</a> comes from
 
-	<address>Your address yo!123�Hilldale St.</address><address>Hill Valley, CA�31111</address>
+	<address>Your address yo!123 Hilldale St.</address><address>Hill Valley, CA 31111</address>
 	<pre>Before there was style there was "pre". It was a dark and lonely day.</pre>
 
 	<span style="color: #ff00ff;">PINK! I made this text PINK!</span>
