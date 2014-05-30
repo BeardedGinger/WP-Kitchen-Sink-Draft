@@ -41,7 +41,7 @@ function gb_kitchen_sink_content() {
 	ob_start(); ?>
 
 	<h1>This is an H1 heading. How is it styled?</h1>
-	<h2>Now here is an H2Êheading</h2>
+	<h2>Now here is an H2 heading</h2>
 	<h3>Marty McFly went to H3 in a time machine</h3>
 	<h4>Doc Brown helped him get Back to the Future! (with an H4 of course).</h4>
 	<h5>Watch out! Don't slip on that H5! You'll see visions of a flux capacitor.</h5>
@@ -113,7 +113,7 @@ function gb_kitchen_sink_content() {
 
 	Check out the site where all this cool <a title="DeLorean Ipsum" href="http://www.deloreanipsum.com/" target="_blank">DeLorean Ipsum</a> comes from
 
-	<address>Your address yo!123ÊHilldale St.</address><address>Hill Valley, CAÊ31111</address>
+	<address>Your address yo!123ï¿½Hilldale St.</address><address>Hill Valley, CAï¿½31111</address>
 	<pre>Before there was style there was "pre". It was a dark and lonely day.</pre>
 
 	<span style="color: #ff00ff;">PINK! I made this text PINK!</span>
